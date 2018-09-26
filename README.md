@@ -1,9 +1,13 @@
 # careyourbody
 保护好身体
 
-## 推荐应用
+热身
+- 俯身飞鸟
+- 最强体式
+- 俯身转体
 
-iMuscle 2
+跳绳
+
 
 ## 身体部位
 
@@ -14,5 +18,9 @@ iMuscle 2
 ![two](./_img/IMG_3031489683FD-1.jpeg)
 ![three](./_img/IMG_C75521350737-1.jpeg)
 
+## 推荐应用
+
+iMuscle2
+咕咚-训练-背部轰炸
 
 
